@@ -12,6 +12,7 @@ weight = 5
   interests = [
     "Test Automation",
     "Python",
+      "Testing",
     
   ]
 
